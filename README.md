@@ -1,5 +1,7 @@
 # Eliot R. Smith's agent based model in Python
 
+![Build Status](https://api.travis-ci.org/kubikb/smith_agent_model.svg?branch=master)
+
 This Python package is able to simulate Eliot R. Smith's agent-based model from the following article:
 
 > Smith, Eliot R. "Evil Acts and Malicious Gossip A Multiagent Model of the Effects of Gossip in Socially Distributed Person Perception." Personality and Social Psychology Review 18.4 (2014): 311-325.
